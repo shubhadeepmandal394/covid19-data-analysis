@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Using Python
+# COVID-19 Data Analysis using Python
 
 ## What is this project all about?
 
